@@ -1,0 +1,1 @@
+Hola este es basicamente el inicio del curso para conseguir chamba como programador.
